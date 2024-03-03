@@ -3,7 +3,6 @@ Hello, I've decided to release this gamemode. It's a basic roleplay created from
 
 
 Admin CMD
-[code]
 Moderator: /slap, /unfreeze, /freeze, /kick /setvw /setinterior /adminname
 Moderator: /kick /ajail /unjail /mute /unmute
 Junior Admin: /ban, /unbanip, /offlineban, /unban
@@ -11,10 +10,8 @@ Senior Admin: /setstat, /gmx, /doorname, /editdoor, /createdoor, /edithouse, /cr
 Senior Admin: /createbiz /editbiz /houseadress /bizname /veh /savedata
 /setstat /makeleader /auncuff /veh /forcepayday
 Faction Moderator: /makeleader, /afactionrankname, /afactionname, /afactioninfo
-[/code]
 
 Player CMD
-[code]
 General CMD: /enter /exit /house /bizz /accept /vehicle
 General CMD: /admins /stats /changepass /walkstyle
 General CMD: /tapwater /lights /rapsheet /vehmenu /phone
@@ -25,11 +22,9 @@ Job CMD: /delivernp /stopdelivering
 Job CMD: /deliverpizza
 Job CMD: /collecttrash /leavetrash /mytrash /loadtrash /droptrash
 Job CMD: /fare /duty /spawntaxi
-[/code]
 
 Features
 
-[code]
 Dynamic Door system
 Dynamic House system
 Dynamic Business
@@ -40,4 +35,3 @@ Pizza job
 Garbage man
 News paperboy
 Taxi
-[/code]
