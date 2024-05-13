@@ -1,0 +1,507 @@
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\Natha\Desktop\New Age Roleplay\components
+Executing Server Config...
+[15:04:02] [Info] Loading plugin: crashdetect
+[15:04:02] [Info] Could not load plugin:
+Det går inte att hitta den angivna modulen.
+[15:04:02] [Info] Loading plugin: streamer
+[15:04:02] [Info] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[15:04:02] [Info] Loading plugin: sscanf
+[15:04:02] [Info] Could not load plugin:
+Det går inte att hitta den angivna modulen.
+[15:04:02] [Error] Skipping legacy plugin 'nativechecker'; It is not needed anymore since open.mp has built in native checking mechanism when a script is being loaded
+[15:04:02] [Info] 
+--------------------------------------
+[15:04:02] [Info]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[15:04:02] [Info] --------------------------------------
+
+[15:04:02] [Error] Function not registered: sscanf
+[15:04:02] [Error] Function not registered: SSCANF_Leave
+[15:04:02] [Error] Function not registered: SSCANF_Join
+[15:04:02] [Error] Function not registered: SSCANF_Init
+Starting open.mp server (1.2.0.2670) from commit 41ebf182bf73dc9cb11841bfe6b0179ba31f9dd5
+Loading component Actors.dll
+	Successfully loaded component Actors (1.2.0.2670) with UID c81ca021eae2ad5c
+Loading component Checkpoints.dll
+	Successfully loaded component Checkpoints (1.2.0.2670) with UID 44a937350d611dde
+Loading component Classes.dll
+	Successfully loaded component Classes (1.2.0.2670) with UID 8cfb3183976da208
+Loading component Console.dll
+	Successfully loaded component Console (1.2.0.2670) with UID bfa24e49d0c95ee4
+Loading component CustomModels.dll
+	Successfully loaded component CustomModels (1.2.0.2670) with UID 15e3cb1e7c77ffff
+Loading component Databases.dll
+	Successfully loaded component Databases (1.2.0.2670) with UID 80092e7eb5821a96
+Loading component Dialogs.dll
+	Successfully loaded component Dialogs (1.2.0.2670) with UID 44a111350d611dde
+Loading component GangZones.dll
+	Successfully loaded component GangZones (1.2.0.2670) with UID b3351d11ee8d8056
+Loading component LegacyConfig.dll
+	Successfully loaded component LegacyConfig (1.2.0.2670) with UID 24ef6216838f9ffc
+Loading component LegacyNetwork.dll
+	Successfully loaded component RakNetLegacyNetwork (1.2.0.2670) with UID ea9799fd79cf8442
+Loading component Menus.dll
+	Successfully loaded component Menus (1.2.0.2670) with UID 621e219eb97ee0b2
+Loading component Objects.dll
+	Successfully loaded component Objects (1.2.0.2670) with UID 59f8415f72da6160
+Loading component Pawn.dll
+	Successfully loaded component Pawn (1.2.0.2670) with UID 78906cd9f19c36a6
+Loading component Pickups.dll
+	Successfully loaded component Pickups (1.2.0.2670) with UID cf304faa363dd971
+Loading component Recordings.dll
+	Successfully loaded component Recordings (1.2.0.2670) with UID 871144d399f5f613
+Loading component TextDraws.dll
+	Successfully loaded component TextDraws (1.2.0.2670) with UID 9b5dc2b1d15c992a
+Loading component TextLabels.dll
+	Successfully loaded component TextLabels (1.2.0.2670) with UID a0c57ea80a009742
+Loading component Timers.dll
+	Successfully loaded component Timers (1.2.0.2670) with UID 2ad8124c5ea257a3
+Loading component Unicode.dll
+	Successfully loaded component Unicode (1.2.0.2670) with UID 8ffb446f8353922b
+Loading component Variables.dll
+	Successfully loaded component Variables (1.2.0.2670) with UID 75e121848bc01fa2
+Loading component Vehicles.dll
+	Successfully loaded component Vehicles (1.2.0.2670) with UID 3f1f62ee9e22ab19
+Loaded 21 component(s) from C:\Users\Natha\Desktop\New Age Roleplay\components
+Executing Server Config...
+[15:05:44] [Info] Loading plugin: crashdetect
+[15:05:44] [Info] Could not load plugin:
+Det går inte att hitta den angivna modulen.
+[15:05:44] [Info] Loading plugin: streamer
+[15:05:44] [Info] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[15:05:44] [Info] Loading plugin: sscanf
+[15:05:44] [Info] 
+[15:05:44] [Info]  ===============================
+[15:05:44] [Info] 
+[15:05:44] [Info]       sscanf plugin loaded.     
+[15:05:44] [Info] 
+[15:05:44] [Info]          Version: 2.13.8
+[15:05:44] [Info] 
+[15:05:44] [Info]    (c) 2022 Alex "Y_Less" Cole  
+[15:05:44] [Info] 
+[15:05:44] [Info]  ===============================
+[15:05:44] [Info] 
+[15:05:44] [Error] Skipping legacy plugin 'nativechecker'; It is not needed anymore since open.mp has built in native checking mechanism when a script is being loaded
+[15:05:44] [Info] 
+--------------------------------------
+[15:05:44] [Info]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[15:05:44] [Info] --------------------------------------
+
+[15:05:44] [Info] OnGameo
+[15:05:44] [Info]  
+[15:05:44] [Info]  
+[15:05:44] [Info]  
+[15:05:44] [Info]  ======================================= 
+[15:05:44] [Info]  |                                     | 
+[15:05:44] [Info]  |        YSI version 3.09.0684        | 
+[15:05:44] [Info]  |        By Alex "Y_Less" Cole        | 
+[15:05:44] [Info]  |                                     | 
+[15:05:44] [Info]  ======================================= 
+[15:05:44] [Info]  
+[15:05:44] [Info]  
+[15:05:44] [Info]  
+[15:05:44] [Warning] Parameter count does not match specifier in `Script_Call`. callback: Itter_OnGameModeInit - fmat:  - count: 3)
+[15:05:44] [Info] Trashcan 0 filled with 79 resources
+[15:05:44] [Info] Trashcan 1 filled with 97 resources
+[15:05:44] [Info] Trashcan 2 filled with 37 resources
+[15:05:44] [Info] Trashcan 3 filled with 52 resources
+[15:05:44] [Info] Trashcan 4 filled with 63 resources
+[15:05:44] [Info] Trashcan 5 filled with 11 resources
+[15:05:44] [Info] Trashcan 6 filled with 93 resources
+[15:05:44] [Info] Trashcan 7 filled with 68 resources
+[15:05:44] [Info] Trashcan 8 filled with 61 resources
+[15:05:44] [Info] Trashcan 9 filled with 52 resources
+[15:05:44] [Info] Trashcan 10 filled with 69 resources
+[15:05:44] [Info] Trashcan 11 filled with 28 resources
+[15:05:44] [Info] Trashcan 12 filled with 23 resources
+[15:05:44] [Info] Trashcan 13 filled with 17 resources
+[15:05:44] [Info] Trashcan 14 filled with 37 resources
+[15:05:44] [Info] Trashcan 15 filled with 60 resources
+[15:05:44] [Info] Trashcan 16 filled with 16 resources
+[15:05:44] [Info] Trashcan 17 filled with 47 resources
+[15:05:44] [Info] Trashcan 18 filled with 62 resources
+[15:05:44] [Info] Trashcan 19 filled with 56 resources
+[15:05:44] [Warning] Legacy key `hostname` supplied, using `name`
+[15:05:44] [Warning] Legacy key `weburl` supplied, using `website`
+[15:05:44] [Info] Ownable vehicle loaded successfully.
+[15:05:44] [Info] Ownable vehicle page2 loaded successfully.
+[15:05:44] [Info] Bots loading, beginning...
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadFaction_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadFaction_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadHouse_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadHouse_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadHouse_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadHouse_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadBiz_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadBiz_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadBiz_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadBiz_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Warning] Insufficient specifiers given to `format`: "LoadDoor_%s" < 2
+[15:05:44] [Info] [RG-RP]: 2068 Streamed Objects Loaded.
+[15:05:44] [Info] [RG-RP]: 487 Streamed Pickups Loaded.
+[15:05:44] [Info] [RG-RP]: 0 Streamed Checkpoints Loaded.
+[15:05:44] [Info] [RG-RP]: 233 Streamed Map Icons Loaded.
+[15:05:44] [Info] [RG-RP]: 508 Streamed 3D-Textes Loaded.
+[15:05:44] [Info] 
+---------------------------------------
+[15:05:44] [Info] Rebound Gaming Roleplay
+
+[15:05:44] [Info] Gamemode creator: N0FeaR
+
+[15:05:44] [Info] Copyright to N0FeaR
+
+[15:05:44] [Info] DO NOT REMOVE THE CREDITS
+
+[15:05:44] [Info] ---------------------------------------
+
+[15:05:44] [Info] Legacy Network started on port 7777
+[15:05:46] [Info] Loading Bot Number 1
+[15:05:46] [Warning] Bot executable not found: samp-npc.exe
+[15:05:48] [Info] Loading Bot Number 2
+[15:05:48] [Warning] Bot executable not found: samp-npc.exe
+[15:05:48] [Info] Bots loading, ended.
+[15:06:53] [Info] [connection] incoming connection: 192.168.0.80:57603 id: 0
+[15:06:53] [Info] [join] Wayne_Jackson has joined the server (0:192.168.0.80)
+[15:06:54] [Warning] Insufficient specifiers given to `format`: "LoadUser_%s" < 2
+[15:06:58] [Warning] Insufficient specifiers given to `format`: "LoadUser_%s" < 2
+[15:07:18] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:21] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:24] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:24] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:24] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:25] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:25] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:25] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:28] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:28] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:28] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:29] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:29] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:29] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:38] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:07:39] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:09:05] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:09:09] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:09:44] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:09:44] [Info] Trash can ID: 0 now has 87 resources
+[15:09:44] [Info] Trash can ID: 2 now has 45 resources
+[15:09:44] [Info] Trash can ID: 3 now has 60 resources
+[15:09:44] [Info] Trash can ID: 4 now has 71 resources
+[15:09:44] [Info] Trash can ID: 5 now has 19 resources
+[15:09:44] [Info] Trash can ID: 6 now has 101 resources
+[15:09:44] [Info] Trash can ID: 7 now has 76 resources
+[15:09:44] [Info] Trash can ID: 8 now has 69 resources
+[15:09:44] [Info] Trash can ID: 9 now has 60 resources
+[15:09:44] [Info] Trash can ID: 10 now has 77 resources
+[15:09:44] [Info] Trash can ID: 11 now has 36 resources
+[15:09:44] [Info] Trash can ID: 12 now has 31 resources
+[15:09:44] [Info] Trash can ID: 13 now has 25 resources
+[15:09:44] [Info] Trash can ID: 14 now has 45 resources
+[15:09:44] [Info] Trash can ID: 15 now has 68 resources
+[15:09:44] [Info] Trash can ID: 16 now has 24 resources
+[15:09:44] [Info] Trash can ID: 17 now has 55 resources
+[15:09:44] [Info] Trash can ID: 18 now has 70 resources
+[15:09:44] [Info] Trash can ID: 19 now has 64 resources
+[15:09:53] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:10:40] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:10:43] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:12:57] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:12:59] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:00] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:00] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:02] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:02] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:04] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:04] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:05] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:05] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:06] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:06] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:07] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:13:07] [Info] [death] Wayne_Jackson died 54
+[15:13:44] [Info] Trash can ID: 0 now has 90 resources
+[15:13:44] [Info] Trash can ID: 2 now has 48 resources
+[15:13:44] [Info] Trash can ID: 3 now has 63 resources
+[15:13:44] [Info] Trash can ID: 4 now has 74 resources
+[15:13:44] [Info] Trash can ID: 5 now has 22 resources
+[15:13:44] [Info] Trash can ID: 7 now has 79 resources
+[15:13:44] [Info] Trash can ID: 8 now has 72 resources
+[15:13:44] [Info] Trash can ID: 9 now has 63 resources
+[15:13:44] [Info] Trash can ID: 10 now has 80 resources
+[15:13:44] [Info] Trash can ID: 11 now has 39 resources
+[15:13:44] [Info] Trash can ID: 12 now has 34 resources
+[15:13:44] [Info] Trash can ID: 13 now has 28 resources
+[15:13:44] [Info] Trash can ID: 14 now has 48 resources
+[15:13:44] [Info] Trash can ID: 15 now has 71 resources
+[15:13:44] [Info] Trash can ID: 16 now has 27 resources
+[15:13:44] [Info] Trash can ID: 17 now has 58 resources
+[15:13:44] [Info] Trash can ID: 18 now has 73 resources
+[15:13:44] [Info] Trash can ID: 19 now has 67 resources
+[15:14:50] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:14:53] [Info] sscanf warning (`(null)`): "Include / plugin mismatch, please recompile your script for the latest features."
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Error] String formatted incorrectly - parameter: 12, total: 11, format: 
+
+[15:15:54] [Warning] Insufficient specifiers given to `format`: "%f,%f,%f,%d,%d,%d,%d,%d,%d
+" < 8
+[15:15:54] [Info] 
+
+*** Streamer Plugin v2.9.1 by Incognito unloaded ***
+
+[15:15:54] [Info] 
+[15:15:54] [Info]  ===============================
+[15:15:54] [Info] 
+[15:15:54] [Info]      sscanf plugin unloaded.    
+[15:15:54] [Info] 
+[15:15:54] [Info]  ===============================
+[15:15:54] [Info] 
